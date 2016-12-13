@@ -14,4 +14,5 @@
 <br />
 <p>Compatible with this dictionary. Bookmarks from the Internet. Made possible to MDict form by Snowdax</p>
 
-电子版网上应该有的，第1896页缺少，这里传一个
+
+>电子版网上应该有的，第1896页缺少，这里传一个
